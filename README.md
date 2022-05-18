@@ -1,6 +1,17 @@
 # ALD saturation datasets
 
 This repository contains simple datasets to predict optimal saturation times for an ALD process from a single growth profile and dose time.
+It also includes examples of how to train neural network on 
+one-shot process optimization tasks.
+
+## About
+
+Details on the dataset and training procedure can be found in
+the following paper:
+
+[Machine learning and atomic layer deposition: predicting saturation times using artificial
+neural networks](https://arxiv.org/abs/2205.08378)
+
 
 ## Dataset description
 
