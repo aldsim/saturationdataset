@@ -6,12 +6,18 @@ one-shot process optimization tasks.
 
 ## About
 
-Details on the dataset and training procedure can be found in
+Details on the dataset and training procedure are described in
 the following paper:
 
 [Machine learning and atomic layer deposition: predicting saturation times using artificial
 neural networks](https://arxiv.org/abs/2205.08378)
 
+currently under submission.
+
+### Team
+
+- Angel Yanguas-Gil (ayg @ anl.gov) 
+- Jeffrey W. Elam
 
 ## Dataset description
 
